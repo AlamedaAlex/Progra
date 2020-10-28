@@ -1,0 +1,16 @@
+Programa:MiAWK
+Hecho por :Alexis Almeda Poblano 1CM8
+V.5.2
+
+PASO 1: PRESIONE LA TECLA WINDOS+R.
+PASO 2:ESCRIBIR "CMD" COLOCARSE EN LA POSISCION DONDE SE ENCUENTRA EL PROGRAMA
+PASO 3:ESCRIBIR "MiAWK.exe_(nombre del texto que se modificara)_(comando)_(nombre del texto donde aparesera el texto modificado)
+PASO 4:LISTA DE COMANDOS
+-Lnd1nd2nd3...:	El atributo lineal (L) imprimira solamente las lineas indicadas por d1,d2,d3,..,n es el seprador de digitos. 
+-Cnd1nd2nd3...:	El atributo columna (C) imprimira solamente las Columnas indicadas por d1,d2,d3,..,n es el seprador de digitos.
+-ILnd1nd2nd3...:El atributo intercalar (IL) metera un sato de linea en d1,d2,d3,..,n es el seprador de digitos.
+-ICnd1nd2nd3...:El atributo intercalar columna (IC) metera un tabulador de linea en d1,d2,d3,..,n es el seprador de digitos.
+-INC:		Insertar numero de columna (INC) numerara cada linea del archivo.
+-SMm:		Cambia las mayuculas por minusculas.
+-SmM:		Cambia las minusculas por mayusculas.
+-Lnd1nd2nd3...:	El atributo lineal (L) imprimira solamente las lineas indicadas por d1,d2,d3,..,n es el seprador de digitos.
